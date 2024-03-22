@@ -32,6 +32,8 @@ def write_results(results_file, success_count, failure_count, entry):
 # Get the click coordinates
 get_click_coordinates()
 
+#placehodler text
+
 # Set the coordinates here
 click_x = int(input("Enter the X coordinate: "))
 click_y = int(input("Enter the Y coordinate: "))
